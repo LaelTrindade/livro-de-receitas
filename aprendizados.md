@@ -1,2 +1,4 @@
 commit
 branch
+merge
+github
